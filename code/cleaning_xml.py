@@ -28,4 +28,8 @@ if __name__ == '__main__':
 				file_txt.write(p)
 			file_xml.close()
 			file_txt.close()
-	
+
+# L'information est disponible dans le paragraphe MOTIF
+# On va regarder directement lee texte de LIEGIFRANCE
+# MOTIF > paragraphe > FAITS PROCEDURES = on zone localement le paragraphe
+# on applique des algorithmes de text mining

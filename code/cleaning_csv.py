@@ -23,6 +23,10 @@ class CasesLibrary:
 	
 	def create_database(self):
 		class Line:
+			"""
+			This class selects relevant information in one line of the CSV-database
+			 
+			"""
 			def __init__(self, row):
 				self.types=""
 				self.content=""
@@ -48,7 +52,6 @@ class CasesLibrary:
 				for letters in row['filename;line_num;types;text']:
 					counter_after+=1
 					if letters == ';':
-						debug(row['filename;line_num;types;text'][counter_before:counter_after])
 						line.append(row['filename;line_num;types;text'][counter_before:counter_after])
 						counter_before=counter_after
 				line.append(row['filename;line_num;types;text'][counter_before:len(row['filename;line_num;types;text'])])
@@ -56,14 +59,34 @@ class CasesLibrary:
 				self.set_types(line[2])
 				# we extract the content of the section line[3]
 				self.set_content(line[3])
-				debug(line)
-				time.sleep(1)
 
-		several_lines=[]
-		for row in self.reader:
-			#debug(str(Line(row).get_content()))
-			several_lines.append(Line(row))
+		class Sections(Line):
+			# TODO : ignore the n_a
+			def __init__(self, reader):
+				self.sections={}
+				lines=[]
+				for row in reader:
+					#debug(str(Line(row).get_content()))
+					lines.append(Line(row))
+				self.create_section(lines)
 
+			def create_section(self, lines):
+				actual_section=""
+				contents=""
+				for row in lines:
+					if actual_section == row.get_types():
+						contents=contents + " " + row.get_content()
+					else:
+						debug("Actual section : "+ str(actual_section))
+						debug("contents : "+str(contents))
+						debug("\n")
+						self.sections[actual_section]=contents
+						actual_section=row.get_types()
+						contents=""
+						contents=contents + " " + row.get_content()
+						time.sleep(0.5)
+
+		new_section = Sections(self.reader)
 
 if __name__ == '__main__':
 	file='../database_csv/annotations-full.csv'
