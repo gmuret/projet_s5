@@ -124,6 +124,7 @@ class DatabaseCSV:
 						nb_section+=1
 						sections.append({'section':row.get_types(), 'nb_section':nb_section, 'content':contents + " " + row.get_content()})
 						contents=""
+						actual_section=row.get_types()
 				return sections
 			def conv_json(self, db):
 				with open('db.json', 'w', encoding='utf-8') as f:
