@@ -25,7 +25,7 @@ def debug(input):
 class DatabaseCSV:
 	def __init__(self, file):
 		csvfile=open(file, 'r')
-		self.reader = csv.DictReader(csvfile)
+		self.reader = csv.DictReader(csvfile, dialect='excel')
 		self.create_database()
 		csvfile.close()
 	
@@ -62,22 +62,11 @@ class DatabaseCSV:
 			def get_content(self):
 				return self.content
 			def create_line(self, row):
-				# we seperate all the fields seperated by a ';' in a line
-				line = []
-				counter_before = 0
-				counter_after = 0
-				for letters in row['filename;line_num;types;text']:
-					counter_after+=1
-					if letters == ';':
-						line.append(row['filename;line_num;types;text'][counter_before:counter_after])
-						counter_before=counter_after
-				line.append(row['filename;line_num;types;text'][counter_before:len(row['filename;line_num;types;text'])])
-				# then, we extract the name of the section the line belongs. This info is in the line[2]
-				self.set_types(line[2])
+				self.set_types(row['types_macro'])
 				# we extract the content of the section line[3]
-				self.set_content(line[3])
-				self.set_id(line[0])
-				self.set_numline(line[1])
+				self.set_content(row['text'])
+				self.set_id(row['file'])
+				self.set_numline(row['line_num'])
 
 		class ParseCases(Line):
 			# TODO : ignore the n_a
@@ -122,8 +111,8 @@ class DatabaseCSV:
 						contents=contents + " " + row.get_content()
 					else:
 						nb_section+=1
-						sections.append({'section':row.get_types(), 'nb_section':nb_section, 'content':contents + " " + row.get_content()})
-						contents=""
+						sections.append({'section':actual_section, 'nb_section':nb_section, 'content':contents})
+						contents=row.get_content()
 						actual_section=row.get_types()
 				return sections
 			def conv_json(self, db):
@@ -133,5 +122,5 @@ class DatabaseCSV:
 		no = ParseSections(self.reader)
 
 if __name__ == '__main__':
-	file='../database_csv/annotations-full.csv'
+	file='../database_csv/annotations-clean.csv'
 	csvfile=DatabaseCSV(file)
