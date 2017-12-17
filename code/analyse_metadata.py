@@ -16,10 +16,6 @@ from nltk.corpus import stopwords
 def debug(input):
 	return sys.stdout.write(str(input)+"\n")
 
-# This function detects all sections of a decision
-def detect_section(path):
-
-
 def text_cleaning(path):
 	file = open(path, 'r')
 
