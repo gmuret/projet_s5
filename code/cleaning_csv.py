@@ -154,16 +154,17 @@ class DatabaseCSV:
 
 		# STARTS THE CLEANING METHODS
 		##
-		# FIRST CLEANING : SPACES BETWEEN LETTERSE WITHIN A WORD
+		# FIRST CLEANING : SPACES BETWEEN LETTERSE WITHIN A WORD AND ERASE THE PUNCTUATIONS
 		for case in db_json:
 			debug("Looking at "+str(case['id_case']))
 			for k in range(len(case['content'])):
 				count_all = Counter()
-				terms_all = [term.lower() for term in word_tokenize(case['content'][k]['content'])]
-				#terms_all = self._erase_punctuation(terms_all)
 				# Update the counter
+
+				terms_all = [term.lower() for term in word_tokenize(case['content'][k]['content'])]
 				count_all.update(terms_all)
 				self._erase_spaces(terms_all)
+				terms_all=self._erase_punctuation(case['content'][k]['content'])
 				case['content'][k]['content']=terms_all
 
 		with open('db_clean_for_lod1.json', 'w', encoding='utf-8') as f:
@@ -174,17 +175,10 @@ class DatabaseCSV:
 		no = ParseSections(self.reader)
 		
 	def _erase_punctuation(self, text):
-		regex = re.compile('[%s]' % re.escape(string.punctuation))
-		tokenized_reports_no_punctuation = []
-		for review in text:
-			new_review = []
-			for token in review: 
-				new_token = regex.sub(u'', token)
-				if not new_token == u'':
-					new_review.append(new_token)
-			tokenized_reports_no_punctuation.append(new_review)
-		return tokenized_reports_no_punctuation
-
+		punctuation = list(string.punctuation)
+		stop = stopwords.words('french') + punctuation + ['...','--','de','la','De','La','DE','LA', 'du', 'au']
+		terms_stop = [term.lower() for term in word_tokenize(text) if term.lower() not in stop]
+		return terms_stop
 
 	def _erase_spaces(self, text):
 		""" CLEANING RULE
@@ -215,9 +209,7 @@ class DatabaseCSV:
 				if len(word)>4:
 					new_word=""
 					for i in word:
-						debug(text[i])
 						new_word=new_word+str(text[i])
-					debug("The new word is : "+str(new_word))
 					text.insert(word[0], new_word)
 					for i in range(len(word)):
 						text.pop(word[0]+1)

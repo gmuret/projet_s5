@@ -15,7 +15,6 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from collections import Counter
 
-import cleaning_csv
 
 # CAUTION
 # This program may not work on Windows or MacOS platform. It requires a specific class for Linux system
@@ -31,21 +30,41 @@ def debug(input):
 	"""
 	return sys.stdout.write(str(input)+"\n")
 
-class Analyse_LOD:
+class Analyse_LOD1:
 	def __init__(self, db):
-		self.
+		#self.city=self._id_city(db)
+		self.cour_appel=self._id_cour_appel(db)
 
-	def _id_city(self):
-		for case in db_json:
-		for k in range(len(case['content'])):
-			if case['content'][k]['sectino']=="Entete":
-				count_all = Counter()
-				terms_all = [term.lower() for term in word_tokenize(case['content'][k]['content'])]
+	def _id_cour_appel(self, db):
+		class Cour_appel():
+			def __init__(self, terms):
+				self.cour_appel=[]
+				self.city=""
 
+				self._set_cour_appel(terms)
 
-if __name__ == '__main__':
-	os.system("python3 cleaning_csv.py")
-	path='./db.json'
-	with open(path, 'r', encoding='utf-8') as f:
-		db_json=json.load(f)
-	A=Analyse_LOD(db_json)
+			def _set_cour_appel(self, terms):
+				cour="cour"
+				appel="appel"
+				for k in range(len(terms)-2):
+					word=terms[k]
+					word_after=terms[k+1]
+					if (cour in word) and (len(word) < len(cour)+2) and (appel in word_after):
+						self.cour_appel=[word, word_after, terms[k+2]]
+						self.city=terms[k+2]
+						debug(self.city)
+						break
+				
+			def get_cour_appel(self):
+				return self.cour_appel
+			def get_city(self):
+				return self.city
+		result=[]
+		for case in db:
+			for k in range(len(case['content'])):
+				if case['content'][k]['section']=="Entete":
+					result.append(Cour_appel(case['content'][k]['content']).get_city())
+		debug(len(result))
+		return result
+
+	def _id_rg(self, terms):
