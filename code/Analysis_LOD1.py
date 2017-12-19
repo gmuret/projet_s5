@@ -32,8 +32,8 @@ def debug(input):
 
 class Analyse_LOD1:
 	def __init__(self, db):
-		#self.city=self._id_city(db)
-		self.cour_appel=self._id_cour_appel(db)
+		#self.cour_appel=self._id_cour_appel(db)
+		self.rg=self._id_rg(db)
 
 	def _id_cour_appel(self, db):
 		class Cour_appel():
@@ -41,9 +41,9 @@ class Analyse_LOD1:
 				self.cour_appel=[]
 				self.city=""
 
-				self._set_cour_appel(terms)
+				self._detect_cour_appel(terms)
 
-			def _set_cour_appel(self, terms):
+			def _detect_cour_appel(self, terms):
 				cour="cour"
 				appel="appel"
 				for k in range(len(terms)-2):
@@ -67,4 +67,57 @@ class Analyse_LOD1:
 		debug(len(result))
 		return result
 
-	def _id_rg(self, terms):
+	def _id_rg(self, db):
+		class Rg():
+			"""
+			This class will detect the RG code.
+			First pattern : "12/", "1234" which leads to RG=12/1234
+			Second pattern : "12/1234"
+			These patterns are detected if the words surrounded it containes "r", "g", "no", "rg"
+			"""
+			def __init__(self, terms):
+				self.rg=""
+				self._detect_rg(terms)
+				self._clean_rg()
+			def _detect_rg(self, terms):
+				r=["r.", "r"]
+				g=["g", ".g"]
+				rg="rg"
+				no="no"
+
+				for k in range(2, len(terms)-2):
+					if ("/" in terms[k]) and (len(terms[k])>=2):
+						nb="0123456789/"
+						alphabet=["r", "r.", "g", ".g", "rg", "no"]
+						if ([e for e in alphabet if e==terms[k-1]] != []) and ([e for e in nb if e in terms[k+1]] != []):
+							self.rg=terms[k]+terms[k+1]
+							break
+						elif ([e for e in alphabet if e==terms[k-1]] != []) and not([e for e in nb if e in terms[k+1]] != []):
+							self.rg=terms[k]
+						elif ([e for e in nb if e in terms[k+1]] != []) and (len(terms[k+1])>=3):
+							self.rg=terms[k]+terms[k+1]
+
+			def _clean_rg(self):
+				for index, k in enumerate(self.rg):
+					alphabet="0123456789/"
+					if k not in alphabet:
+						self.rg=self.rg.replace(k, "")
+
+			def get_rg(self):
+				return self.rg
+
+		result=[]
+		for case in db:
+			debug("\n")
+			debug("ID : "+case['id_case'])
+			for k in range(len(case['content'])):
+				if case['content'][k]['section']=="Entete":
+					result.append(Rg(case['content'][k]['content']).get_rg())
+					debug("RG : " + Rg(case['content'][k]['content']).get_rg())
+					debug("\n")
+			counter=0
+			for k in result:
+				if k!="":
+					counter+=1
+			debug("SUCCESS : "+str(counter)+"/"+str(len(result)))
+		return result
