@@ -14,6 +14,15 @@ import string
 from nltk.tokenize import word_tokenize 
 from nltk.corpus import stopwords
 from collections import Counter
+import string
+from nltk import bigrams 
+from nltk import ngrams
+
+import nltk
+
+import operator 
+
+
 
 
 # CAUTION
@@ -32,9 +41,16 @@ def debug(input):
 
 class Analyse_LOD1:
 	def __init__(self, db):
+		debug("\n")
+		debug("Identification de la cour d'appel..\n")
 		self.cour_appel=self._id_cour_appel(db)
+		debug("Identification du numero RG..\n")
 		self.rg=self._id_rg(db)
+		debug("Identification de la date..\n")
+		self.date=self._id_date(db)
+		debug("Enregistrement dans la base de données..\n")
 		self._json()
+		debug("Done !")
 
 	def _id_cour_appel(self, db):
 		class Cour_appel():
@@ -53,7 +69,6 @@ class Analyse_LOD1:
 					if (cour in word) and (len(word) < len(cour)+2) and (appel in word_after):
 						self.cour_appel=[word, word_after, terms[k+2]]
 						self.city=terms[k+2]
-						debug(self.city)
 						break
 				
 			def get_cour_appel(self):
@@ -65,7 +80,6 @@ class Analyse_LOD1:
 			for k in range(len(case['content'])):
 				if case['content'][k]['section']=="Entete":
 					result.append([Cour_appel(case['content'][k]['content']).get_city(), case['id_case']])
-		debug(len(result))
 		return result
 
 	def _id_rg(self, db):
@@ -109,18 +123,38 @@ class Analyse_LOD1:
 
 		result=[]
 		for case in db:
-			debug("\n")
-			debug("ID : "+case['id_case'])
 			for k in range(len(case['content'])):
 				if case['content'][k]['section']=="Entete":
 					result.append([Rg(case['content'][k]['content']).get_rg(), case['id_case']])
 			counter=0
 		for k in result:
-			if k!="":
+			if k[0]!="" and len(k[0])<10:
 				counter+=1
 		debug("SUCCESS : "+str(counter)+"/"+str(len(result)))
 		return result
 
+	def _id_date(self, db):
+		count_all = Counter()
+		punctuation = list(string.punctuation)
+		stop = stopwords.words('french') + punctuation + ['...','--','de','la','De','La','DE','LA']
+		mois = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre']
+		date = []
+		manquant = []
+		liste_compte = []
+		## Generating all the "Entete" tokenized and cleant from all punctuation
+		for case in db:
+			for k in range(len(case['content'])):
+				if case['content'][k]['section']=="Entete":
+					terms_stop=case['content'][k]['content']
+					for j in range (len(terms_stop[0:96])):
+						new_date=[]
+						if terms_stop[j] in mois:
+							if terms_stop[j+1] == 'deux':
+								new_date=[(terms_stop[j-1],terms_stop[j],terms_stop[j+1],terms_stop[j+2],terms_stop[j+3])]
+							else:
+								new_date=[(terms_stop[j-1],terms_stop[j],terms_stop[j+1])]
+							date.append([new_date, case['id_case']])
+		return date
 	def _json(self):
 		db=[]
 		for content in self.cour_appel:
@@ -133,8 +167,14 @@ class Analyse_LOD1:
 			for case in db:
 				if case['id_case']==content[1]:
 					case['metadata']['rg'] = content[0]
+		for content in self.date:
+			for case in db:
+				if case['id_case']==content[1]:
+					case['metadata']['date'] = content[0][0]
 
 		with open('metadata_lod1.json', 'w', encoding='utf-8') as f:
 			json.dump(db, f, indent=4, ensure_ascii=False)
+
+
 
 
