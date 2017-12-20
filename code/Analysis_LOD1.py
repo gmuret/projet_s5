@@ -32,8 +32,9 @@ def debug(input):
 
 class Analyse_LOD1:
 	def __init__(self, db):
-		#self.cour_appel=self._id_cour_appel(db)
+		self.cour_appel=self._id_cour_appel(db)
 		self.rg=self._id_rg(db)
+		self._json()
 
 	def _id_cour_appel(self, db):
 		class Cour_appel():
@@ -63,7 +64,7 @@ class Analyse_LOD1:
 		for case in db:
 			for k in range(len(case['content'])):
 				if case['content'][k]['section']=="Entete":
-					result.append(Cour_appel(case['content'][k]['content']).get_city())
+					result.append([Cour_appel(case['content'][k]['content']).get_city(), case['id_case']])
 		debug(len(result))
 		return result
 
@@ -112,12 +113,28 @@ class Analyse_LOD1:
 			debug("ID : "+case['id_case'])
 			for k in range(len(case['content'])):
 				if case['content'][k]['section']=="Entete":
-					result.append(Rg(case['content'][k]['content']).get_rg())
-					debug("RG : " + Rg(case['content'][k]['content']).get_rg())
-					debug("\n")
+					result.append([Rg(case['content'][k]['content']).get_rg(), case['id_case']])
 			counter=0
-			for k in result:
-				if k!="":
-					counter+=1
-			debug("SUCCESS : "+str(counter)+"/"+str(len(result)))
+		for k in result:
+			if k!="":
+				counter+=1
+		debug("SUCCESS : "+str(counter)+"/"+str(len(result)))
 		return result
+
+	def _json(self):
+		db=[]
+		for content in self.cour_appel:
+			dic={}
+			dic['id_case']=content[1]
+			dic['metadata']={}
+			dic['metadata']['cour_appel'] = content[0]
+			db.append(dic)
+		for content in self.rg:
+			for case in db:
+				if case['id_case']==content[1]:
+					case['metadata']['rg'] = content[0]
+
+		with open('metadata_lod1.json', 'w', encoding='utf-8') as f:
+			json.dump(db, f, indent=4, ensure_ascii=False)
+
+
