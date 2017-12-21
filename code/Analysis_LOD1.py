@@ -43,9 +43,9 @@ class Analyse_LOD1:
 	def __init__(self, db):
 		debug("\n")
 		debug("Identification de la cour d'appel..\n")
-		self.cour_appel=self._id_cour_appel(db)
+		self.cour_appel, self.cour_appel_success=self._id_cour_appel(db)
 		debug("Identification du numero RG..\n")
-		self.rg=self._id_rg(db)
+		self.rg, self.rg_success=self._id_rg(db)
 		debug("Identification de la date..\n")
 		self.date=self._id_date(db)
 		debug("Enregistrement dans la base de données..\n")
@@ -57,7 +57,7 @@ class Analyse_LOD1:
 			def __init__(self, terms):
 				self.cour_appel=[]
 				self.city=""
-
+				self.succes=0
 				self._detect_cour_appel(terms)
 
 			def _detect_cour_appel(self, terms):
@@ -70,7 +70,6 @@ class Analyse_LOD1:
 						self.cour_appel=[word, word_after, terms[k+2]]
 						self.city=terms[k+2]
 						break
-				
 			def get_cour_appel(self):
 				return self.cour_appel
 			def get_city(self):
@@ -80,7 +79,11 @@ class Analyse_LOD1:
 			for k in range(len(case['content'])):
 				if case['content'][k]['section']=="Entete":
 					result.append([Cour_appel(case['content'][k]['content']).get_city(), case['id_case']])
-		return result
+		counter=0
+		for k in result:
+			if k != "" and len(k)<30:
+				counter+=1
+		return result, counter/(len(result)+1)
 
 	def _id_rg(self, db):
 		class Rg():
@@ -126,12 +129,11 @@ class Analyse_LOD1:
 			for k in range(len(case['content'])):
 				if case['content'][k]['section']=="Entete":
 					result.append([Rg(case['content'][k]['content']).get_rg(), case['id_case']])
-			counter=0
+		counter=0
 		for k in result:
 			if k[0]!="" and len(k[0])<10:
 				counter+=1
-		debug("SUCCESS : "+str(counter)+"/"+str(len(result)))
-		return result
+		return result, counter/(len(result)+1)
 
 	def _id_date(self, db):
 		count_all = Counter()
@@ -157,6 +159,9 @@ class Analyse_LOD1:
 		return date
 	def _json(self):
 		db=[]
+		dbjson={}
+		dbjson['rg_success']=self.rg_success
+		dbjson['city_succes']=self.cour_appel_success
 		for content in self.cour_appel:
 			dic={}
 			dic['id_case']=content[1]
@@ -171,9 +176,10 @@ class Analyse_LOD1:
 			for case in db:
 				if case['id_case']==content[1]:
 					case['metadata']['date'] = content[0][0]
+		dbjson['content']=db
 
 		with open('metadata_lod1.json', 'w', encoding='utf-8') as f:
-			json.dump(db, f, indent=4, ensure_ascii=False)
+			json.dump(dbjson, f, indent=4, ensure_ascii=False)
 
 
 
