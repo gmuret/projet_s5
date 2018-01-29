@@ -26,7 +26,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 if __name__ == '__main__':
-	"""
+
 
 	with open('db_base.json', 'r', encoding='utf-8') as f:
 		db_json=json.load(f)
@@ -146,9 +146,6 @@ if __name__ == '__main__':
 	plt.tight_layout()
 	#plt.savefig('trigram.png')
 	plt.show()
-"""
-
-
 
 
 

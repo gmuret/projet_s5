@@ -47,7 +47,7 @@ class Analyse_LOD1:
 		debug("Identification du numero RG..\n")
 		self.rg, self.rg_success=self._id_rg(db)
 		debug("Identification de la date..\n")
-		self.date=self._id_date(db)
+		self.date, self.date_success=self._id_date(db)
 		debug("Enregistrement dans la base de données..\n")
 		self._json()
 		debug("Done !")
@@ -156,12 +156,21 @@ class Analyse_LOD1:
 							else:
 								new_date=[(terms_stop[j-1],terms_stop[j],terms_stop[j+1])]
 							date.append([new_date, case['id_case']])
-		return date
+		counter=0
+		for word in date:
+			if len(word[0])==2:
+				if len(word[0][2])>=2:
+					counter+=1
+			else:
+				counter+=1
+		return date, counter/(len(date)+1)
+
 	def _json(self):
 		db=[]
 		dbjson={}
 		dbjson['rg_success']=self.rg_success
-		dbjson['city_succes']=self.cour_appel_success
+		dbjson['city_success']=self.cour_appel_success
+		dbjson['date_success']=self.date_success
 		for content in self.cour_appel:
 			dic={}
 			dic['id_case']=content[1]
@@ -180,7 +189,3 @@ class Analyse_LOD1:
 
 		with open('metadata_lod1.json', 'w', encoding='utf-8') as f:
 			json.dump(dbjson, f, indent=4, ensure_ascii=False)
-
-
-
-
