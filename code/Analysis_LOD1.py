@@ -22,12 +22,23 @@ import nltk
 
 import operator 
 
+"""
+CAUTION
+This program may not work on Windows or MacOS platform. It is highly recommended to use a Linux Distribution.
+This python program was tested on Ubuntu 16.03 with Python3.
+
+This program was designed in the context of Open Law's project "IA et Droit". 
+The licence of this program is Open Source and was created students from IMT Atlantic engineering school.
 
 
+ ####  #####  ##### ###   #     ##    ####### ##           ##
+##	## ##  ## ##    ####  #     ##    ##   ##  ##         ##
+#	 # #####  ###   ## ## #     ##    #######   ##   #   ##
+##	## ##     ##    ##  ###     ##    ##   ##    ## ### ##
+ ####  ##     ##### ##   ##     ##### ##   ##     ##   ##
 
-# CAUTION
-# This program may not work on Windows or MacOS platform. It requires a specific class for Linux system
-# This python program was tested on Ubuntu 16.03 with Python3.
+
+"""
 
 def debug(input):
 	"""
@@ -41,6 +52,18 @@ def debug(input):
 
 class Analyse_LOD1:
 	def __init__(self, db):
+		"""
+		This class gathers methods to extract the first level of information in a decision from a json database.
+		The JSON database must be created with the class Cleaning_csv to avoid conflicts and incompatibility.
+		This level of information is composed of indicators, quoted as followed :
+		- Cour d'appel
+		- numero RG
+		- date où le jugement est rendu
+		Each indicator is extracted with a method as followed :
+		- Cour d'appel 							:		self._id_cour_appel
+		- numero rg 							:		self._id_rg
+		- date où le jugement est prononcé 		:		self._id_date
+		"""
 		debug("\n")
 		debug("Identification de la cour d'appel..\n")
 		self.cour_appel, self.cour_appel_success=self._id_cour_appel(db)
@@ -53,6 +76,9 @@ class Analyse_LOD1:
 		debug("Done !")
 
 	def _id_cour_appel(self, db):
+		"""
+		This method gathers 
+		"""
 		class Cour_appel():
 			def __init__(self, terms):
 				self.cour_appel=[]
@@ -187,5 +213,5 @@ class Analyse_LOD1:
 					case['metadata']['date'] = content[0][0]
 		dbjson['content']=db
 
-		with open('metadata_lod1.json', 'w', encoding='utf-8') as f:
+		with open('./dataset/metadata_lod1.json', 'w', encoding='utf-8') as f:
 			json.dump(dbjson, f, indent=4, ensure_ascii=False)

@@ -1,0 +1,5001 @@
+{
+    "rg_success": 0.9382716049382716,
+    "content": [
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "mars",
+                    "2015"
+                ],
+                "rg": "15/00319",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033492767.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "avril",
+                    "1975"
+                ],
+                "rg": "15/08940",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033129628.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/04767",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033216479.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "février",
+                    "2016-"
+                ],
+                "rg": "13/13823",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033267239.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "02",
+                    "avril",
+                    "1993"
+                ],
+                "rg": "15/00614",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185041.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "novembre",
+                    "2016"
+                ],
+                "rg": "15/00495",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033491261.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "avril",
+                    "2016"
+                ],
+                "rg": "16/00565",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033886138.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "neuf",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00082",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033185291.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00247",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033214806.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "janvier",
+                    "1975"
+                ],
+                "rg": "14/01008",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183231.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "décembre",
+                    "2014-"
+                ],
+                "rg": "13/00339",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033575740.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "29",
+                    "mai",
+                    "1971"
+                ],
+                "rg": "15/00178",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129896.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "décembre",
+                    "1982"
+                ],
+                "rg": "16/0005728",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033354382.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "15",
+                    "février",
+                    "1951"
+                ],
+                "rg": "15/00407",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033492227.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "mai",
+                    "1977"
+                ],
+                "rg": "14/05796",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033492175.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "janvier",
+                    "1951"
+                ],
+                "rg": "15/00459",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183173.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "octobre",
+                    "1979"
+                ],
+                "rg": "12/03972",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033436851.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "avril",
+                    "1968"
+                ],
+                "rg": "14/17611",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033185821.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "janvier",
+                    "1959"
+                ],
+                "rg": "06/00884",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033436372.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "août",
+                    "1954"
+                ],
+                "rg": "14/00898",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033489502.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "novembre",
+                    "2015"
+                ],
+                "rg": "15/02078",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033785517.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "octobre",
+                    "1979"
+                ],
+                "rg": "12/03973",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435176.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "seize",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "78/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033436287.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "janvier",
+                    "1951"
+                ],
+                "rg": "15/00459",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184037.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "seize",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "77/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033436524.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "10",
+                    "janvier",
+                    "1975"
+                ],
+                "rg": "16/03469",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033130224.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "septembre",
+                    "1969"
+                ],
+                "rg": "",
+                "cour_appel": "limoges"
+            },
+            "id_case": "JURITEXT000033354770.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "janvier",
+                    "2016"
+                ],
+                "rg": "15/00052",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033492651.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "7",
+                    "mars",
+                    "2016"
+                ],
+                "rg": "15/00999",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033216689.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "janvier",
+                    "2015"
+                ],
+                "rg": "15/00044",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033493639.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "sept",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033266099.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quinze",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/04425",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033435668.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "deux",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "74/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033353728.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "mars",
+                    "1966"
+                ],
+                "rg": "16/00061",
+                "cour_appel": "grenoble"
+            },
+            "id_case": "JURITEXT000033435321.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "mars",
+                    "2015"
+                ],
+                "rg": "383/2016",
+                "cour_appel": "colmar"
+            },
+            "id_case": "JURITEXT000033129197.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "janvier",
+                    "2016"
+                ],
+                "rg": "15/00024",
+                "cour_appel": ""
+            },
+            "id_case": "JURITEXT000033128960.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "juin",
+                    "1964"
+                ],
+                "rg": "13/00980",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033128541.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "octobre",
+                    "1923"
+                ],
+                "rg": "12/00591",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033267048.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "03",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "16/00760",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033491209.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "15/00036",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033267013.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "16/01193",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033490911.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "03",
+                    "février",
+                    "1973"
+                ],
+                "rg": "13/02855",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033490497.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "08",
+                    "mars",
+                    "1956"
+                ],
+                "rg": "15/00231",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184223.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "novembre",
+                    "1967"
+                ],
+                "rg": "15/00086",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184899.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00224",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129005.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "sept",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/03438",
+                "cour_appel": "rennes"
+            },
+            "id_case": "JURITEXT000033436411.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "septembre",
+                    "1985"
+                ],
+                "rg": "15/00115",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033214325.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "31",
+                    "janvier",
+                    "1979"
+                ],
+                "rg": "13/13831",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435688.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "cinq",
+                    "octobre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/05515",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033436572.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "21",
+                    "novembre",
+                    "2016"
+                ],
+                "rg": "2016/271",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033687501.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/02032",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033128951.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "13/01503",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033575205.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "avril",
+                    "1998"
+                ],
+                "rg": "14/00259",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184286.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "août",
+                    "1946"
+                ],
+                "rg": "14/00243",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033353519.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "décembre",
+                    "2014-"
+                ],
+                "rg": "12/08932",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033353782.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "décembre",
+                    "1974"
+                ],
+                "rg": "14/00692",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183103.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "04",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/00248",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033493100.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "02",
+                    "mai",
+                    "2016"
+                ],
+                "rg": "16/00557",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033490128.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trente",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00190",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185658.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "64/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033184063.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "avril",
+                    "1967"
+                ],
+                "rg": "14/06022",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033130218.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00176",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033353375.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00198",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033354142.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00191",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033216305.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trente",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00394",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033533313.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "25",
+                    "octobre",
+                    "1957"
+                ],
+                "rg": "1/2016",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033489740.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "16/00485",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033491069.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "janvier",
+                    "1954"
+                ],
+                "rg": "15/00089",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033214475.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "juin",
+                    "1944"
+                ],
+                "rg": "13/14838",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033436721.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "04",
+                    "février",
+                    "1964"
+                ],
+                "rg": "15/00112",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184561.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "janvier",
+                    "2016"
+                ],
+                "rg": "16/02218",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033265781.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "mai",
+                    "1940"
+                ],
+                "rg": "16/00276",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183228.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "03",
+                    "juillet",
+                    "2015"
+                ],
+                "rg": "15/01459",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033886851.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "juillet",
+                    "1948"
+                ],
+                "rg": "12/08678",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033354589.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "septembre",
+                    "1961"
+                ],
+                "rg": "16/04265",
+                "cour_appel": "caen"
+            },
+            "id_case": "JURITEXT000033575264.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "février",
+                    "1962"
+                ],
+                "rg": "15/00138",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185183.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatre",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/04943",
+                "cour_appel": "rennes"
+            },
+            "id_case": "JURITEXT000033493439.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00173",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033355118.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "novembre",
+                    "2016à"
+                ],
+                "rg": "2016/265",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033436296.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "mai",
+                    "1977"
+                ],
+                "rg": "14/05796",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033214222.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "août",
+                    "1970"
+                ],
+                "rg": "15/00429",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184952.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "04",
+                    "janvier",
+                    "1973"
+                ],
+                "rg": "14/06026",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033266838.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "mars",
+                    "2012"
+                ],
+                "rg": "15/00316",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033265958.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "octobre",
+                    "2014-"
+                ],
+                "rg": "12/15141",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033353967.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "décembre",
+                    "2015"
+                ],
+                "rg": "16/00103",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033533549.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "mai",
+                    "2014"
+                ],
+                "rg": "12/46029",
+                "cour_appel": "limogeschambre"
+            },
+            "id_case": "JURITEXT000031956943.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "08",
+                    "mai",
+                    "1945"
+                ],
+                "rg": "15/00487",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033491828.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00275",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033354134.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "10",
+                    "décembre",
+                    "1976"
+                ],
+                "rg": "15/00505",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184196.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quinze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00072",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033130588.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "15",
+                    "septembre",
+                    "1958"
+                ],
+                "rg": "12/00518",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033491848.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "22",
+                    "mars",
+                    "2016"
+                ],
+                "rg": "16/00188",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033214725.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "31",
+                    "mai",
+                    "1959"
+                ],
+                "rg": "11/03629",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033266048.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "sept",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/04437",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033267254.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "10/2015",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033128888.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "huit",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00627",
+                "cour_appel": "metz"
+            },
+            "id_case": "JURITEXT000033186089.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "novembre",
+                    "2016"
+                ],
+                "rg": "2016/266",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033687676.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "mars",
+                    "2016"
+                ],
+                "rg": "13/00985",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184765.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt-neuf",
+                    "décembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00094",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033493653.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "novembre",
+                    "2016à"
+                ],
+                "rg": "2016/265",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033435310.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "août",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00075",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033785546.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "11",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "16/00800",
+                "cour_appel": "limoges"
+            },
+            "id_case": "JURITEXT000033575546.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatre",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/01099",
+                "cour_appel": "rennes"
+            },
+            "id_case": "JURITEXT000033216327.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "5",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "13/01365",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033216574.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "juillet",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "limoges"
+            },
+            "id_case": "JURITEXT000033129681.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "08",
+                    "avril",
+                    "2011-"
+                ],
+                "rg": "09/00446",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033575958.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatre",
+                    "octobre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/07154",
+                "cour_appel": "rennes"
+            },
+            "id_case": "JURITEXT000033216345.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "avril",
+                    "1942"
+                ],
+                "rg": "16/00429",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183054.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "avril",
+                    "1959"
+                ],
+                "rg": "13/06906",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033266576.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "11",
+                    "septembre",
+                    "2014"
+                ],
+                "rg": "09/16595",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435241.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "avril",
+                    "1954"
+                ],
+                "rg": "13/13828",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033434989.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00447",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033488844.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juillet",
+                    "2015"
+                ],
+                "rg": "15/01239",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033886041.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "juin",
+                    "1944"
+                ],
+                "rg": "13/14838",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435731.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "novembre",
+                    "1948"
+                ],
+                "rg": "12/15285",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033575786.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatre",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/05349",
+                "cour_appel": "rennes"
+            },
+            "id_case": "JURITEXT000033435202.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "décembre",
+                    "1944"
+                ],
+                "rg": "15/07415",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033575981.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "octobre",
+                    "1939"
+                ],
+                "rg": "13/00313",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033128706.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "novembre",
+                    "1985"
+                ],
+                "rg": "12/02942",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033129723.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "25",
+                    "février",
+                    "1983"
+                ],
+                "rg": "2016/247",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033355399.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "août",
+                    "1995"
+                ],
+                "rg": "2016/270",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033488892.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "septembre",
+                    "2013"
+                ],
+                "rg": "13/02764",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033489574.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "février",
+                    "1990"
+                ],
+                "rg": "15/00440",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184976.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "avril",
+                    "2015"
+                ],
+                "rg": "13/13694",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033355432.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "mars",
+                    "2015"
+                ],
+                "rg": "15/00290",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033492376.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "15",
+                    "février",
+                    "1951"
+                ],
+                "rg": "15/00407",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033436814.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "14/00118",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033128361.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "août",
+                    "1948"
+                ],
+                "rg": "10/03433",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033492041.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "15",
+                    "mars",
+                    "1931"
+                ],
+                "rg": "15/00647",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033490383.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/02263",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033128973.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "septembre",
+                    "1948"
+                ],
+                "rg": "09/11623",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033185760.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "novembre",
+                    "2015"
+                ],
+                "rg": "14/13672",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033216512.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "10",
+                    "avril",
+                    "1976"
+                ],
+                "rg": "13/01191",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033575443.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "13/03869",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033491859.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "22",
+                    "janvier",
+                    "2013"
+                ],
+                "rg": "",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184141.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "novembre",
+                    "1962"
+                ],
+                "rg": "13/12706",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435220.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "juillet",
+                    "1972"
+                ],
+                "rg": "14/01687",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033493081.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "treize",
+                    "octobre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00077",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033267131.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "août",
+                    "1953"
+                ],
+                "rg": "13/13826",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033434966.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "avril",
+                    "1970"
+                ],
+                "rg": "15/06054",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033185435.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "13/356",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184661.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juin",
+                    "2014"
+                ],
+                "rg": "315/2016",
+                "cour_appel": "colmar"
+            },
+            "id_case": "JURITEXT000033575165.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "sept",
+                    "janvier",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "14/00856",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000031849054.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "septembre",
+                    "1965"
+                ],
+                "rg": "15/00209",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183953.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "02",
+                    "février",
+                    "2015"
+                ],
+                "rg": "15/01145",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033687446.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "21",
+                    "novembre",
+                    "1972"
+                ],
+                "rg": "15/00630",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185791.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "3",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/00677",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033534552.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trente",
+                    "octobre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/5341",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033489082.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "14/00176",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033785617.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00198",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033354081.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "juin",
+                    "1968"
+                ],
+                "rg": "16/00256",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183356.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "août",
+                    "1978"
+                ],
+                "rg": "15/00223",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033215297.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "14/00926",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033214577.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "10",
+                    "novembre",
+                    "1951"
+                ],
+                "rg": "12/00652",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183817.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "15",
+                    "avril",
+                    "1942"
+                ],
+                "rg": "15/01034",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033355420.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "04",
+                    "août",
+                    "1963"
+                ],
+                "rg": "13/00888",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033265814.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "mars",
+                    "1956"
+                ],
+                "rg": "15/00584",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183373.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "novembre",
+                    "2013"
+                ],
+                "rg": "15/00358",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033215616.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/02032",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033886234.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "seize",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "78/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033435234.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "15/00017",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033575344.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "22",
+                    "février",
+                    "1948"
+                ],
+                "rg": "14/00557",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185529.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "juin",
+                    "1965"
+                ],
+                "rg": "09/14803",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033353667.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "16/01194",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033493191.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "septembre",
+                    "2017d'une"
+                ],
+                "rg": "71/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033493726.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "1er",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "14/00998",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000031849084.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/05482",
+                "cour_appel": "rennes"
+            },
+            "id_case": "JURITEXT000033575492.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "7",
+                    "mars",
+                    "2016"
+                ],
+                "rg": "15/00729",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033492794.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00278",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033490974.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "29",
+                    "janvier",
+                    "2016"
+                ],
+                "rg": "202/2016",
+                "cour_appel": "colmar"
+            },
+            "id_case": "JURITEXT000033185690.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juillet",
+                    "2014"
+                ],
+                "rg": "16/00384",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033214994.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "huit",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/03262",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033575430.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129225.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "janvier",
+                    "2016"
+                ],
+                "rg": "15/00052",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033215567.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "10/2015",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033128476.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "neuf",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00082",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033185864.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "octobre",
+                    "1972"
+                ],
+                "rg": "12/02740",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033265683.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt-neuf",
+                    "décembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00094",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033489422.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "juillet",
+                    "2015"
+                ],
+                "rg": "15/02020",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033493463.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "25",
+                    "janvier",
+                    "1979"
+                ],
+                "rg": "16/01507",
+                "cour_appel": "chambéry"
+            },
+            "id_case": "JURITEXT000033489075.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "huit",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00627",
+                "cour_appel": "metz"
+            },
+            "id_case": "JURITEXT000033183452.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "limoges"
+            },
+            "id_case": "JURITEXT000033130535.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "15/00021",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033576148.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "décembre",
+                    "2015"
+                ],
+                "rg": "16/00489",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033492080.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00033",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033687657.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "12/12449",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033490639.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "25",
+                    "avril",
+                    "1980"
+                ],
+                "rg": "16/0005828",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033129123.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "février",
+                    "1962"
+                ],
+                "rg": "15/00138",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185058.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "7",
+                    "mars",
+                    "2016"
+                ],
+                "rg": "14/01794",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033130075.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00287",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033492547.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00287",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033493050.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "13/00379",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033886251.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "08",
+                    "février",
+                    "2016"
+                ],
+                "rg": "15/00283",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033885946.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "juillet",
+                    "2015"
+                ],
+                "rg": "15/02004",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033492682.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00319",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033575526.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "12/10526",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033216439.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "mars",
+                    "1959"
+                ],
+                "rg": "15/00500",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033214930.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "04",
+                    "janvier",
+                    "1950"
+                ],
+                "rg": "12/01197",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033214410.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "août",
+                    "1943"
+                ],
+                "rg": "12/03000",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033266861.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "novembre",
+                    "1968"
+                ],
+                "rg": "",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033353501.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00171",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129693.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "13/01216",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033886116.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "janvier",
+                    "2015-"
+                ],
+                "rg": "",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033355313.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "13/00379",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129391.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "8",
+                    "juillet",
+                    "2016"
+                ],
+                "rg": "2016/00444704/07/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033185089.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "août",
+                    "1951"
+                ],
+                "rg": "12/00942",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184623.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "août",
+                    "1954"
+                ],
+                "rg": "15/00070",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033215360.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00140",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033489912.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "février",
+                    "1966"
+                ],
+                "rg": "12/044077",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033265645.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "7",
+                    "décembre",
+                    "2016"
+                ],
+                "rg": "82/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033575455.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "novembre",
+                    "2014"
+                ],
+                "rg": "13/07704",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033489974.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "10",
+                    "juin",
+                    "1950"
+                ],
+                "rg": "15/00370",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033489058.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "16/0509816/05102",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033072414.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00222",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033215099.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "05",
+                    "mai",
+                    "2014-"
+                ],
+                "rg": "12/04900",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033184310.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "11",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "limoges"
+            },
+            "id_case": "JURITEXT000033576403.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00275",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129505.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "avril",
+                    "1962"
+                ],
+                "rg": "15/00589",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033533357.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "octobre",
+                    "2015"
+                ],
+                "rg": "14/15168",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033354803.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "mars",
+                    "1951"
+                ],
+                "rg": "13/14571",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033129573.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "15/00019",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033575395.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "décembre",
+                    "1982"
+                ],
+                "rg": "16/0005728",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033354730.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "mars",
+                    "2015"
+                ],
+                "rg": "2015/00754513/10/2015",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033215734.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "8",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "2016/205",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033130160.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "15/00017",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033575294.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "03",
+                    "juillet",
+                    "1955"
+                ],
+                "rg": "15/00316",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033215960.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "7",
+                    "mars",
+                    "2016"
+                ],
+                "rg": "14/01770",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033492242.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "22",
+                    "juillet",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033489774.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "08",
+                    "novembre",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033436656.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "septembre",
+                    "1921"
+                ],
+                "rg": "2016/827",
+                "cour_appel": "d'aix"
+            },
+            "id_case": "JURITEXT000033215505.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "janvier",
+                    "1965"
+                ],
+                "rg": "16/02362",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033266800.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "29",
+                    "avril",
+                    "1930"
+                ],
+                "rg": "15/00294",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033214296.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatre",
+                    "octobre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/01685",
+                "cour_appel": "rennes"
+            },
+            "id_case": "JURITEXT000033266317.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "08",
+                    "janvier",
+                    "2015"
+                ],
+                "rg": "12/12918",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033353680.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "deux",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "13/002393",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184342.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "décembre",
+                    "1965"
+                ],
+                "rg": "16/00062",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033435397.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "juin",
+                    "1967"
+                ],
+                "rg": "14/03896",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033493178.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "7",
+                    "mars",
+                    "2016"
+                ],
+                "rg": "14/01770",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033492574.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "février",
+                    "2016"
+                ],
+                "rg": "15/00706",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033885998.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "juin",
+                    "2014-"
+                ],
+                "rg": "14/01252",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033575871.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "juillet",
+                    "2015"
+                ],
+                "rg": "15/02009",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033491279.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "cinq",
+                    "octobre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00338",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033216189.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "septembre",
+                    "1927"
+                ],
+                "rg": "11/00693",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033129271.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "15",
+                    "juillet",
+                    "1972"
+                ],
+                "rg": "13/05855",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435351.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "avril",
+                    "2015"
+                ],
+                "rg": "13/13694",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033184523.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "12/327",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033354423.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "65/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033183287.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "10",
+                    "novembre",
+                    "1973"
+                ],
+                "rg": "10/16062",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435092.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatre",
+                    "octobre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/08047",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033353836.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "mars",
+                    "2015-"
+                ],
+                "rg": "13/12995",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033575071.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "04",
+                    "mai",
+                    "1970"
+                ],
+                "rg": "15/00183",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183074.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "11",
+                    "novembre",
+                    "1937"
+                ],
+                "rg": "15/00374",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033215826.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "avril",
+                    "1994"
+                ],
+                "rg": "2016/301",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033436633.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "mai",
+                    "1978"
+                ],
+                "rg": "15/14938",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033492639.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "août",
+                    "1938"
+                ],
+                "rg": "10/00219",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435253.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "novembre",
+                    "1934"
+                ],
+                "rg": "14/00833",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033354229.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "mars",
+                    "2015"
+                ],
+                "rg": "15/00282",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033491934.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "13/00416",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129044.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "août",
+                    "1951"
+                ],
+                "rg": "12/00942",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185006.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juillet",
+                    "1959"
+                ],
+                "rg": "15/00156",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033534753.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "février",
+                    "2016-"
+                ],
+                "rg": "13/13823",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435581.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quinze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00079",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033130274.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00141",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033489654.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "03",
+                    "octobre",
+                    "1976"
+                ],
+                "rg": "15/00372",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033534755.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "03",
+                    "octobre",
+                    "1982"
+                ],
+                "rg": "15/01445",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033491267.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "novembre",
+                    "1965"
+                ],
+                "rg": "14/00729",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033354298.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "12/2015",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033886921.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "juin",
+                    "2016-"
+                ],
+                "rg": "15/09949",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033266390.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00167",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033493595.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "mars",
+                    "1946"
+                ],
+                "rg": "15/00085",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033435883.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "05",
+                    "janvier",
+                    "1954"
+                ],
+                "rg": "14/03662",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033215540.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "février",
+                    "2016"
+                ],
+                "rg": "14/03517",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033215895.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "novembre",
+                    "2014"
+                ],
+                "rg": "13/07704",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033435066.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00167",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033491825.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "15/00025",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033576138.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "juin",
+                    "1952"
+                ],
+                "rg": "13/01324",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033491636.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "janvier",
+                    "2016"
+                ],
+                "rg": "16/00432",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183070.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "octobre",
+                    "1947"
+                ],
+                "rg": "15/00194",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033215878.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/02098",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033182992.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "juin",
+                    "1944"
+                ],
+                "rg": "13/14838",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033436477.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "5",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00711",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033215535.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "avril",
+                    "1969"
+                ],
+                "rg": "14/06024",
+                "cour_appel": "rouen"
+            },
+            "id_case": "JURITEXT000033215776.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "juin",
+                    "2013"
+                ],
+                "rg": "2013/515223/09/2013",
+                "cour_appel": "colmar"
+            },
+            "id_case": "JURITEXT000033184854.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "15",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033129295.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "novembre",
+                    "2013"
+                ],
+                "rg": "15/00359",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033492131.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "02",
+                    "novembre",
+                    "2016"
+                ],
+                "rg": "16/01016",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033886204.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "août",
+                    "1982"
+                ],
+                "rg": "16/1814",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033687419.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "juin",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "13/04082",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033265867.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "janvier",
+                    "2015-"
+                ],
+                "rg": "13/06850",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033129057.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "cinq",
+                    "octobre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/07675",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033491887.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "10",
+                    "novembre",
+                    "1951"
+                ],
+                "rg": "12/00652",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183254.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "63/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033185223.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "août",
+                    "1953"
+                ],
+                "rg": "13/13826",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033436876.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "avril",
+                    "2014"
+                ],
+                "rg": "309/2016",
+                "cour_appel": "colmar"
+            },
+            "id_case": "JURITEXT000033886060.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "02/2016",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033489857.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "juillet",
+                    "1986"
+                ],
+                "rg": "15/00608",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033354178.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "16/00776",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033493346.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "avril",
+                    "1954"
+                ],
+                "rg": "13/13828",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033436723.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "11",
+                    "novembre",
+                    "1961"
+                ],
+                "rg": "10/00055",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033267186.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "05",
+                    "avril",
+                    "2016"
+                ],
+                "rg": "16/00646",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033491801.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "novembre",
+                    "2016"
+                ],
+                "rg": "15/00698",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033215432.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "juillet",
+                    "1947"
+                ],
+                "rg": "15/00390",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033267228.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00033",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033435945.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "08/2016",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033489323.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "juillet",
+                    "1947"
+                ],
+                "rg": "15/00390",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033435431.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "12",
+                    "juillet",
+                    "1967"
+                ],
+                "rg": "15/00071",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033355472.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt-neuf",
+                    "décembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00099",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033128660.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "juin",
+                    "2014"
+                ],
+                "rg": "13/00359",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033490731.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quinze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00078",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033130227.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "novembre",
+                    "1970"
+                ],
+                "rg": "16/00060",
+                "cour_appel": "grenoble"
+            },
+            "id_case": "JURITEXT000033492918.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "sept",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/05766",
+                "cour_appel": "rennes"
+            },
+            "id_case": "JURITEXT000033436457.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt-neuf",
+                    "décembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00091",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033129371.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "janvier",
+                    "1994"
+                ],
+                "rg": "16/04268",
+                "cour_appel": "caen"
+            },
+            "id_case": "JURITEXT000033575472.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "septembre",
+                    "2014-"
+                ],
+                "rg": "13/05211",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033436107.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "janvier",
+                    "1960"
+                ],
+                "rg": "14/01009",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185633.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "novembre",
+                    "1958"
+                ],
+                "rg": "13/02107",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033492486.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "mars",
+                    "1963"
+                ],
+                "rg": "14/07403",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000031958680.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "avril",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/08598",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033265560.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "mars",
+                    "1972"
+                ],
+                "rg": "14/00697",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033353940.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "05",
+                    "août",
+                    "1981"
+                ],
+                "rg": "15/00911",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033214764.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "08/2016",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033488964.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "juin",
+                    "1982"
+                ],
+                "rg": "16/04266",
+                "cour_appel": "caen"
+            },
+            "id_case": "JURITEXT000033489300.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "3",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/01527",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033534727.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "2016/222",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033216490.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "5",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "14/01282",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033214883.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/07046",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033215491.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "5",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "15/00682",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033214518.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "avril",
+                    "1973"
+                ],
+                "rg": "16/00064",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033488933.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "juin",
+                    "1993"
+                ],
+                "rg": "16/0006028",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033216461.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "13",
+                    "février",
+                    "1948"
+                ],
+                "rg": "14/00994",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033785494.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "novembre",
+                    "1992"
+                ],
+                "rg": "16/00027",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033436018.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "15",
+                    "avril",
+                    "1967"
+                ],
+                "rg": "13/01694",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033575703.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00319",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033435631.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "mars",
+                    "1980"
+                ],
+                "rg": "16/04281",
+                "cour_appel": "caen"
+            },
+            "id_case": "JURITEXT000033576070.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "octobre",
+                    "1946"
+                ],
+                "rg": "15/00420",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033491781.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "12/2014",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129183.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "21",
+                    "juin",
+                    "1963"
+                ],
+                "rg": "14/00989",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184086.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "05",
+                    "septembre",
+                    "1952"
+                ],
+                "rg": "16/00671",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033434957.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "2",
+                    "décembre",
+                    "2016"
+                ],
+                "rg": "16/01735",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033576225.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "septembre",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "limoges"
+            },
+            "id_case": "JURITEXT000033182976.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "09/2015",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033886219.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "novembre",
+                    "2016"
+                ],
+                "rg": "16/00544",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033493478.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "03",
+                    "décembre",
+                    "2013"
+                ],
+                "rg": "13/01162",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033130521.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "novembre",
+                    "2016-10"
+                ],
+                "rg": "11/2016",
+                "cour_appel": "toulouse"
+            },
+            "id_case": "JURITEXT000033436008.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "10",
+                    "juin",
+                    "1950"
+                ],
+                "rg": "15/00370",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033489514.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "juillet",
+                    "1975"
+                ],
+                "rg": "15/00097",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033489555.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "neuf",
+                    "décembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00089",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033129308.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "30",
+                    "mars",
+                    "1961"
+                ],
+                "rg": "16/05463",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033489134.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "15/00308",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033128395.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "16/01164",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033492406.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "18",
+                    "février",
+                    "1955"
+                ],
+                "rg": "12/00490",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033493620.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129937.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00315",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033886090.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "15/00023",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033576125.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/01972",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033575414.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "mai",
+                    "1970"
+                ],
+                "rg": "15/00101",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033129839.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/02033",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033129990.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "14/00926",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033215983.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "20",
+                    "septembre",
+                    "1955"
+                ],
+                "rg": "15/00474",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184446.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "3",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/00675",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033534780.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "quatorze",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "14/00082",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033128813.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "02",
+                    "août",
+                    "1943"
+                ],
+                "rg": "15/00471",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183991.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "4",
+                    "décembre",
+                    "2014"
+                ],
+                "rg": "15/00036",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033575118.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "mars",
+                    "2015"
+                ],
+                "rg": "16/00481",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033491616.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "juillet",
+                    "1956"
+                ],
+                "rg": "12/03974",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033436188.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "deux",
+                    "novembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/02962",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033030369.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "11",
+                    "mars",
+                    "2014"
+                ],
+                "rg": "14/00459",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033355161.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "octobre",
+                    "2016"
+                ],
+                "rg": "15/00517",
+                "cour_appel": "saint-denis"
+            },
+            "id_case": "JURITEXT000033785574.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "04",
+                    "avril",
+                    "1939"
+                ],
+                "rg": "14/00072",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033216209.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "juillet",
+                    "1956"
+                ],
+                "rg": "12/03967",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033687724.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "septembre",
+                    "1980"
+                ],
+                "rg": "12/12327",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033576039.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "juin",
+                    "2015"
+                ],
+                "rg": "",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435845.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "69/2016",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033185376.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "octobre",
+                    "2014"
+                ],
+                "rg": "14/00205",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033490156.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "avril",
+                    "1954"
+                ],
+                "rg": "13/13828",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033435780.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "février",
+                    "1949"
+                ],
+                "rg": "16/00224",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033491215.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "juillet",
+                    "1948"
+                ],
+                "rg": "15/00378",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033488922.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "23",
+                    "juin",
+                    "1978"
+                ],
+                "rg": "11/17763",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033354991.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "28",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "11/2015",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033354040.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "juillet",
+                    "2015"
+                ],
+                "rg": "15/02018",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033493169.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "décembre",
+                    "1965"
+                ],
+                "rg": "16/00062",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033435271.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "07",
+                    "février",
+                    "1990"
+                ],
+                "rg": "15/00440",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183539.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "24",
+                    "juin",
+                    "2016"
+                ],
+                "rg": "16/00982",
+                "cour_appel": "basse-terre"
+            },
+            "id_case": "JURITEXT000033493672.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt-neuf",
+                    "décembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00091",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033885913.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "trois",
+                    "juin",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "13/04082",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033130005.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "14",
+                    "juillet",
+                    "1949"
+                ],
+                "rg": "10/08172",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033490309.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "8",
+                    "juillet",
+                    "2016"
+                ],
+                "rg": "16/02769",
+                "cour_appel": "d'orléans"
+            },
+            "id_case": "JURITEXT000033186010.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "26",
+                    "avril",
+                    "1962"
+                ],
+                "rg": "15/00589",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033128453.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "juin",
+                    "1964"
+                ],
+                "rg": "13/00980",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033186123.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "17",
+                    "février",
+                    "2016"
+                ],
+                "rg": "12/01013",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185846.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "huit",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "15/00561",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184601.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "09",
+                    "avril",
+                    "1956"
+                ],
+                "rg": "07/2014",
+                "cour_appel": "montpellier"
+            },
+            "id_case": "JURITEXT000033266623.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "08",
+                    "mars",
+                    "1956"
+                ],
+                "rg": "15/00231",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033185334.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "août",
+                    "1946"
+                ],
+                "rg": "14/00243",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033354264.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "juin",
+                    "2013"
+                ],
+                "rg": "2013/515223/09/2013",
+                "cour_appel": "colmar"
+            },
+            "id_case": "JURITEXT000033184684.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "03",
+                    "février",
+                    "1974"
+                ],
+                "rg": "09/05255",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033575020.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "01",
+                    "janvier",
+                    "1972"
+                ],
+                "rg": "15/01054",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033184583.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "7",
+                    "décembre",
+                    "1965"
+                ],
+                "rg": "14/15344",
+                "cour_appel": "paris"
+            },
+            "id_case": "JURITEXT000033355289.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "16",
+                    "novembre",
+                    "2016"
+                ],
+                "rg": "15/00698",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033491220.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "vingt",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "14/06388",
+                "cour_appel": "versailles"
+            },
+            "id_case": "JURITEXT000033214445.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "19",
+                    "juillet",
+                    "1963"
+                ],
+                "rg": "14/00924",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033183554.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "27",
+                    "novembre",
+                    "2014"
+                ],
+                "rg": "14/01398",
+                "cour_appel": "dijon"
+            },
+            "id_case": "JURITEXT000033214259.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "neuf",
+                    "septembre",
+                    "deux",
+                    "mille",
+                    "seize"
+                ],
+                "rg": "16/00066",
+                "cour_appel": "poitiers"
+            },
+            "id_case": "JURITEXT000033185351.txt"
+        },
+        {
+            "metadata": {
+                "date": [
+                    "06",
+                    "mars",
+                    "1946"
+                ],
+                "rg": "15/00085",
+                "cour_appel": "bastia"
+            },
+            "id_case": "JURITEXT000033687610.txt"
+        }
+    ],
+    "date_success": 0.9992997198879552,
+    "city_success": 0.9975308641975309
+}

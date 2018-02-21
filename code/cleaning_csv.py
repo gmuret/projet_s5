@@ -103,7 +103,7 @@ class ParseCases(Line):
 				lines=lines+[line]
 			else:
 				counter+=1
-				new_name=name+str(counter)
+				new_name=line.get_id()
 				self.cases[new_name]=lines
 				lines=[line]
 				id_before=line.get_id()
@@ -112,7 +112,6 @@ class ParseCases(Line):
 
 class ParseSections(ParseCases):
 	def __init__(self, reader):
-		#self.db={'id_case':'', 'content' : {'section':'', 'nb_section':'', 'content':''}}
 		cases = ParseCases(reader).get_cases()
 		self.db=[]
 		for case in cases:
@@ -135,7 +134,7 @@ class ParseSections(ParseCases):
 		sections.append({'section':actual_section, 'nb_section':nb_section, 'content':contents})
 		return sections
 	def conv_json(self, db):
-		with open('db_base.json', 'w', encoding='utf-8') as f:
+		with open('./dataset/db_base.json', 'w', encoding='utf-8') as f:
 			json.dump(db, f, indent=4, ensure_ascii=False)
 
 class DatabaseCSV:
@@ -148,7 +147,7 @@ class DatabaseCSV:
 		csvfile.close()
 
 		# OPENS THE JSON FILE
-		path="./db_base.json"
+		path="./dataset/db_base.json"
 		with open(path, 'r', encoding='utf-8') as f:
 			db_json=json.load(f)
 
@@ -167,7 +166,7 @@ class DatabaseCSV:
 				terms_all=self._erase_punctuation(case['content'][k]['content'])
 				case['content'][k]['content']=terms_all
 
-		with open('db_clean_for_lod1.json', 'w', encoding='utf-8') as f:
+		with open('./dataset/db_clean_for_lod1.json', 'w', encoding='utf-8') as f:
 			json.dump(db_json, f, indent=4, ensure_ascii=False)
 
 	
